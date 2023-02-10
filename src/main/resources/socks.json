@@ -1,0 +1,20 @@
+[
+  {
+    "color": "RED",
+    "size": "R35",
+    "cottonPart": 50,
+    "quantity": 246
+  },
+  {
+    "color": "WHITE",
+    "size": "R41_5",
+    "cottonPart": 80,
+    "quantity": 206
+  },
+  {
+    "color": "BLUE",
+    "size": "R42_5",
+    "cottonPart": 20,
+    "quantity": 206
+  }
+]
