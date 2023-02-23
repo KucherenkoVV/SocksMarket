@@ -12,4 +12,5 @@ public class CleanFileException extends RuntimeException{
     public CleanFileException(String message, Throwable cause) {
         super(message, cause);
     }
+
 }
