@@ -1,0 +1,50 @@
+[
+  {
+    "color": "BLACK",
+    "size": "R42_5",
+    "cottonPart": 30,
+    "quantity": 1250
+  },
+  {
+    "color": "RED",
+    "size": "R35",
+    "cottonPart": 50,
+    "quantity": 1230
+  },
+  {
+    "color": "WHITE",
+    "size": "R39",
+    "cottonPart": 80,
+    "quantity": 1140
+  },
+  {
+    "color": "BLACK",
+    "size": "R42_5",
+    "cottonPart": 20,
+    "quantity": 1150
+  },
+  {
+    "color": "WHITE",
+    "size": "R37_5",
+    "cottonPart": 80,
+    "quantity": 1050
+  },
+  {
+    "color": "BLACK",
+    "size": "R42_5",
+    "cottonPart": 40,
+    "quantity": 1000
+  },
+  {
+    "color": "RED",
+    "size": "R36",
+    "cottonPart": 50,
+    "quantity": 400
+  },
+  {
+    "color": "GREEN",
+    "size": "R38",
+    "cottonPart": 70,
+    "quantity": 20
+  }
+]
